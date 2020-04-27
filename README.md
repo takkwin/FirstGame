@@ -1,2 +1,0 @@
-# FirstGame
-Created with CodeSandbox
